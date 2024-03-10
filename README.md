@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @66025997
+- 👋 Hi, I’m Kanyawee
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning the basics of being FullStack Developers.
 - 📫 How to reach me Email:elswordzaza55@gmail.com
