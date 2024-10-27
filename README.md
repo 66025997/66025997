@@ -7,7 +7,7 @@ Student about software engineering.
 I've been learning React.js for a while now.
 
 * 🌍  I'm based in Phayao, Thailand
-* ✉️  You can contact me at [66025997@up.ac.th](mailto:66025997@up.ac.th)
+* ✉️  You can contact me at [elswordzaza55@gmail.com](mailto:elswordzaza55@gmail.com)
 
 ### Skills
 
